@@ -1,0 +1,4 @@
+1) cd "c:\Users\swathi sri\Desktop\Sanjay Srivatsav\RagPath"; $env:OLLAMA_BASE_URL = "http://127.0.0.1:11435"; & ".\venv\Scripts\python.exe" -m streamlit run app.py
+
+
+2) cd "c:\Users\swathi sri\Desktop\Sanjay Srivatsav\RagPath\test_docs"; git init

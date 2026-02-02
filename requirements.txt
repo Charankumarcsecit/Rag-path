@@ -1,0 +1,28 @@
+# Core framework
+pathway
+
+# Web UI
+streamlit
+
+# Vector Database
+chromadb
+
+# Git operations
+gitpython
+
+# PDF processing
+pypdf2
+pdfplumber
+
+# Document parsing
+python-docx
+python-pptx
+
+# Google Drive
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# Utilities
+python-dotenv
+requests
